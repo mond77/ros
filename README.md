@@ -1,2 +1,2 @@
 # rustOS
-an os implemented refered
+an os implemented referred to rCore courses.
